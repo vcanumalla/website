@@ -21,6 +21,25 @@
 \
 Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2024
 
+{#2024-todaes-3la}
+*[Application-Level Validation of Accelerator Designs Using a Formal Software/Hardware Interface](
+  pub-2024-todaes-3la.html
+)* \
+  [Bo-Yuan Huang][]\*,
+\ [Steven Lyubomirsky][]\*,
+\ [Yi Li][],
+\ [Mike He][],
+\ [Gus Henry Smith][Gus Smith],
+\ [Thierry Tambe][],
+\ [Akash Gaonkar][],
+\ [Vishal Canumalla][],
+\ [Andrew Cheung][],
+\ [Gu-Yeon Wei][],
+\ [Aarti Gupta][],
+\ [Zachary Tatlock][],
+\ [Sharad Malik][]
+\
+ACM Transactions on Design Automation of Electronic Systems (TODAES), 2024
 :::
 
 

@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>https://vcanumalla.github.io/about.html</loc>
-  <lastmod>2024-08-01</lastmod>
+  <lastmod>2024-08-02</lastmod>
+</url>
+<url>
+  <loc>https://vcanumalla.github.io/blog-2024-04-01-ugrad-research.html</loc>
+  <lastmod>2024-08-02</lastmod>
 </url>
 <url>
   <loc>https://vcanumalla.github.io/index.html</loc>
@@ -10,7 +14,7 @@
 </url>
 <url>
   <loc>https://vcanumalla.github.io/news.html</loc>
-  <lastmod>2024-08-01</lastmod>
+  <lastmod>2024-08-02</lastmod>
 </url>
 <url>
   <loc>https://vcanumalla.github.io/notes.html</loc>
@@ -18,15 +22,19 @@
 </url>
 <url>
   <loc>https://vcanumalla.github.io/pub-2023-plarch-lakeroad.html</loc>
-  <lastmod>2023-10-10</lastmod>
+  <lastmod>2024-08-02</lastmod>
 </url>
 <url>
   <loc>https://vcanumalla.github.io/pub-2024-asplos-lakeroad.html</loc>
-  <lastmod>2024-06-10</lastmod>
+  <lastmod>2024-08-02</lastmod>
+</url>
+<url>
+  <loc>https://vcanumalla.github.io/pub-2024-todaes-3la.html</loc>
+  <lastmod>2024-08-02</lastmod>
 </url>
 <url>
   <loc>https://vcanumalla.github.io/publications.html</loc>
-  <lastmod>2024-08-01</lastmod>
+  <lastmod>2024-08-02</lastmod>
 </url>
 <url>
   <loc>https://vcanumalla.github.io/sundial.html</loc>
@@ -43,5 +51,9 @@
 <url>
   <loc>https://vcanumalla.github.io/pubs/2024-asplos-lakeroad/2024-asplos-lakeroad.pdf</loc>
   <lastmod>2024-06-10</lastmod>
+</url>
+<url>
+  <loc>https://vcanumalla.github.io/pubs/2024-todaes-3la/2024-todaes-3la.pdf</loc>
+  <lastmod>2024-08-02</lastmod>
 </url>
 </urlset>

@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Vishal Canumalla">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Application-Level Validation of Accelerator Designs Using a Formal Software/Hardware Interface</title>
+  <link rel="icon" href="img/favicon.png">
+  <link rel="stylesheet" href="style.css">
+  <link rel="canonical" href="https://ztatlock.net/pub-2024-todaes-3la.html">
+<meta name="description" content="DESCRIPTION">
+
+<!-- OpenGraph -->
+<meta property="og:url" content="https://ztatlock.net/pub-2023-todaes-3la.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="TITLE">
+<meta property="og:description" content="DESCRIPTION">
+<meta property="og:image" content="https://ztatlock.net/pubs/2023-todaes-3la/2023-todaes-3la-meta.png">
+
+  <script async src="https://analytics.umami.is/script.js" data-website-id="e9f6fa87-a4bb-48ac-84df-b2d190867eb9" data-domains="vcanumalla.github.io"></script>
+</head>
+<body>
+<section id="Application-Level-Validation-of-Accelerator-Designs-Using-a-Formal-Software-Hardware-Interface">
+<h1>Application-Level Validation of Accelerator Designs Using a Formal Software/Hardware Interface</h1>
+<p><a href="https://bo-yuan-huang.github.io/">Bo-Yuan Huang</a>*,
+&nbsp;<a href="https://slyubomirsky.github.io/">Steven Lyubomirsky</a>*,
+&nbsp;<a href="https://ece.princeton.edu/people/yi-li">Yi Li</a>,
+&nbsp;<a href="https://only.rs/">Mike He</a>,
+&nbsp;<a href="https://justg.us/">Gus Henry Smith</a>,
+&nbsp;<a href="https://thierrytambe.com">Thierry Tambe</a>,
+&nbsp;<a href="https://scholar.google.com/citations?user=Ccvj2usAAAAJ&amp;hl=en">Akash Gaonkar</a>,
+&nbsp;<a href="https://vcanumalla.github.io/">Vishal Canumalla</a>,
+&nbsp;<a href="https://ninehusky.github.io/">Andrew Cheung</a>,
+&nbsp;<a href="https://seas.harvard.edu/person/gu-yeon-wei">Gu-Yeon Wei</a>,
+&nbsp;<a href="https://www.cs.princeton.edu/~aartig/">Aarti Gupta</a>,
+&nbsp;<a href="https://ztatlock.net/">Zachary Tatlock</a>,
+&nbsp;<a href="https://www.princeton.edu/~sharad/">Sharad Malik</a></p>
+<p>Transactions on Design Automation of Electronic Systems (TODAES), 2024</p>
+<ul class="columns columns-8rem">
+<li>
+<a href="pubs/2024-todaes-3la/2023-todaes-3la.pdf">paper</a>
+</li>
+<li>
+<a href="https://dl.acm.org/doi/10.1145/3639051">publisher</a>
+</li>
+</ul>
+<section id="Abstract">
+<h2>Abstract</h2>
+<p>Ideally, accelerator development should be as easy as software development. 
+Several recent design languages/tools are working toward this goal, 
+but actually testing early designs on real applications end-to-end 
+remains prohibitively difficult due to the costs of building 
+specialized compiler and simulator support. We propose a 
+new first-in-class, mostly automated methodology termed “3LA” 
+to enable end-to-end testing of prototype accelerator designs on 
+unmodified source applications. A key contribution of 3LA is the 
+use of a formal software/hardware interface that specifies an 
+accelerator’s operations and their semantics. Specifically, we 
+leverage the Instruction-level Abstraction (ILA) formal 
+specification for accelerators that has been successfully used 
+thus far for accelerator implementation verification. We show how the 
+ILA for accelerators serves as a software/hardware interface, similar 
+to the Instruction Set Architecture for processors, that can be used 
+for automated development of compilers and instruction-level simulators. 
+Another key contribution of this work is to show how ILA-based accelerator 
+semantics enables extending recent work on equality saturation to 
+auto-generate basic compiler support for prototype accelerators 
+in a technique we term “flexible matching.” By combining 
+flexible matching with simulators auto-generated from ILA
+specifications, our approach enables end-to-end evaluation 
+with modest engineering effort. We detail several case studies 
+of 3LA, which uncovered an unknown flaw in a recently published 
+accelerator and facilitated its fix.</p>
+</section>
+<section id="BibTeX">
+<h2>BibTeX</h2>
+<pre class="bib"><code>@article{10.1145/3639051,
+author = {Huang, Bo-Yuan and Lyubomirsky, Steven and Li, Yi and He, Mike and Smith, Gus Henry and Tambe, Thierry and Gaonkar, Akash and Canumalla, Vishal and Cheung, Andrew and Wei, Gu-Yeon and Gupta, Aarti and Tatlock, Zachary and Malik, Sharad},
+title = {Application-level Validation of Accelerator Designs Using a Formal Software/Hardware Interface},
+year = {2024},
+issue_date = {March 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {29},
+number = {2},
+issn = {1084-4309},
+url = {https://doi.org/10.1145/3639051},
+doi = {10.1145/3639051},
+abstract = {Ideally, accelerator development should be as easy as software development. Several recent design languages/tools are working toward this goal, but actually testing early designs on real applications end-to-end remains prohibitively difficult due to the costs of building specialized compiler and simulator support. We propose a new first-in-class, mostly automated methodology termed “3LA” to enable end-to-end testing of prototype accelerator designs on unmodified source applications. A key contribution of 3LA is the use of a formal software/hardware interface that specifies an accelerator’s operations and their semantics. Specifically, we leverage the Instruction-level Abstraction (ILA) formal specification for accelerators that has been successfully used thus far for accelerator implementation verification. We show how the ILA for accelerators serves as a software/hardware interface, similar to the Instruction Set Architecture for processors, that can be used for automated development of compilers and instruction-level simulators. Another key contribution of this work is to show how ILA-based accelerator semantics enables extending recent work on equality saturation to auto-generate basic compiler support for prototype accelerators in a technique we term “flexible matching.” By combining flexible matching with simulators auto-generated from ILA specifications, our approach enables end-to-end evaluation with modest engineering effort. We detail several case studies of 3LA, which uncovered an unknown flaw in a recently published accelerator and facilitated its fix.},
+journal = {ACM Trans. Des. Autom. Electron. Syst.},
+month = {feb},
+articleno = {35},
+numpages = {25},
+keywords = {Accelerator, domain-specific language, compilation, validation, software/hardware interface}
+}
+</code></pre>
+<p><a href="publications.html">📝 publications index</a></p>
+</section>
+</section>
+</body>
+</html>
