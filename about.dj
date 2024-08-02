@@ -1,202 +1,34 @@
-# [Zachary Tatlock][] / About
+# [Vishal Canumalla][] / About
 
-My [research](research.html) interests include
-  compilers,
-  term rewriting,
-  numerics,
-  formal verification, and
-  computational fabrication.
-Outside of the lab,
-  I help organize our [running club](http://raceconditionrunning.com),
-  attempt small knitting projects, and
-  practice cooking vegan food.
-I can juggle and solve Rubik’s cubes,
-  but not at the same time.
-Also, my name has a
-  [wicked cool anagram](anagram.html).
+I was born in Dallas, but home to me will
+  always be the Pacific Northwest.
+I've lived here since I was 6!
 
-I spent six sunny years at
-  [UC San Diego](https://cse.ucsd.edu)
-  working on my PhD with
-  my incredible advisor [Sorin Lerner][].
-Throughout grad school,
-  Sorin set a stellar example of how remarkable
-  doing research can be when you put students first,
-  an example I strive to emulate.
-I also learned many invaluable lessons
-  from the great [Ranjit Jhala][],
-  especially when it comes to writing and presentation:
-  less is more!
+I used to want to study chemistry
+  in high school, before settling on
+  doing chemistry and computer science,
+  and then just computer science.
 
-I graduated from
-  [Purdue University](https://www.cs.purdue.edu)
-  back in Spring 2007 with
-  degrees in Computer Science and Mathematics.
-As an undergraduate,
-  I was fortunate to work with [Suresh Jagannathan][]
-  on the SML compiler [MLton](http://mlton.org).
-For our Honors Project,
-  advised by [Antony Hosking][],
-  my good friend [Bill Harris][] and I designed and implemented a
-  domain specific language to control a giant neon sculpture over the web.
-I also ran the lab component of
-  Purdue’s introductory Java programming course
-  for three years.
+My hobbies are mostly non-technical. 
+I especially enjoy fantasy in any 
+  medium: games, books, movies, 
+  anything really. 
+I also am an avid wildlife photographer. 
+I find animals give far less criticism 
+  on their portraits than 
+  my human friends do.
 
-## Miscellaneous Photos
+I enjoy snowboarding (decent), 
+  tennis (mediocre), 
+  basketball (horrendous), 
+  and running (improving)!
 
-We have a great running group,
-  [Race Condition Running](http://raceconditionrunning.com),
-  that trots all over Seattle and gets brunch each week.
-
-{.photo}
-:::
-  [![Race Condition Running](img/2015-10-race-condition-running.jpg)](http://raceconditionrunning.com)
-:::
-
-I am a big fan of Baja hoodies.
-Luckily the [UW PLSE][PLSE] faculty also have incredible fashion sense.
-
-{.photo}
-:::
-  [![Zachary Tatlock and UW PLSE Faculty](img/2015-12-plse-faculty-baja-hoodies.jpg)](https://uwplse.org)
-:::
-
-I help out with a bunch of stuff around the Allen School,
-  including [TGIF](https://sites.google.com/cs.washington.edu/tgif/).
-Sometimes [famous guests](https://www.cs.princeton.edu/~dpw/) swing by :)
-
-{.photo}
-:::
-  ![David Walker, UW Dubs, and Zachary Tatlock at CSE TGIF](img/2016-02-tgif-dubs-dpw-ztatlock.jpg) \
-:::
-
-I also work with [Hank Levy][] and [Adriana Schulz][]
-  to write the annual faculty skit where we
-  dress up and try to take things a little less seriously.
-
-{.photo}
-:::
-  ![Zachary Tatlock as Charlie Brown in UW CSE Faculty Skit](img/2015-12-uw-cse-faculty-skit-charlie-brown.jpg) \
-:::
-
-There is always something happening in the Allen School;
-it can be tricky to juggle everything going on 🤹
-
-{.photo .photo-narrow}
-:::
-  ![Zachary Tatlock juggling](img/ztatlock-juggling.jpg) \
-:::
-
-Once while interning at
-  [MSR India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/),
-  I got to drive an auto rickshaw.
-
-{.photo}
-:::
-  ![Zachary Tatlock driving an auto rickshaw](img/2010-08-ztatlock-rickshaw.jpg) \
-:::
-
-
-## Academic Ancestry
-
-My academic genealogy has some interesting characters:
-
-- [Royal W. Sorensen](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=222430)
-  ([Physics Tree](https://academictree.org/physics/peopleinfo.php?pid=100144))
-- [Vincent C. Rideout](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=29801)
-  ([Physics Tree](https://academictree.org/physics/peopleinfo.php?pid=100143))
-- [Gerald Estrin](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=69930)
-- [David Martin](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=70595)
-- [David Patterson](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=98366)
-- [David Ungar](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=65708)
-- [Craig Chambers](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=71760)
-- [Sorin Lerner](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=66244)
-- [Zachary Tatlock](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=180839)
-
-
-## Erdős Number
-
-The best bound I know for my
- [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number),
- is 4 via [James][James Wilcox]:
-
-{.photo}
-:::
-  ![Zachary Tatlock Erdős number via James Wilcox](
-    img/ztatlock-erdos-number-james.png
-  ) \
-:::
-
-or via [Pavel][Pavel Panchekha]:
-
-{.photo}
-:::
-  ![Zachary Tatlock Erdős number via Pavel Panchekha](
-    img/ztatlock-erdos-number-pavel.png
-  ) \
-:::
-
-or via [Tom][Tom Anderson]:
-
-{.photo .photo-narrow}
-:::
-  ![Zachary Tatlock Erdős number via Tom Anderson](
-    img/ztatlock-erdos-number-tom.png
-  ) \
-:::
-
-
-## Collaborator Alphabet Soup: Gotta Catch 'Em All
-
-I have been very fortunate to work on projects
-  with many amazing [collaborators](collaborators.html).
-If your first name starts with:
-
->    `F, Q, U`
-
-or your last name starts with:
-
->    `I, U, V, X, Y`
-
-let's write a paper together!
-
-
-## Conspiracy Theories
-
-Did you know [the clock on your wall is probably lying to you](sundial.html)?
-If you thought daylight savings was bad,
-  wait till you hear about timezones!
-
-
-## Conference Trailers
-
-I played a small part in the ICFP 2021 trailer,
-working with
-  [John Leo][] and
-  [Chandrakana Nandi][]:
-
-{.photo}
-:::
-``` =html
-<iframe src="https://www.youtube.com/embed/nzcMpLkkCrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
-:::
-
-I helped my friends
-  [Alexandra Silva](https://alexandrasilva.org/),
-  [Ron Garcia](https://www.cs.ubc.ca/~rxg/),
-  [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/),
-  [Deian Stefan](https://cseweb.ucsd.edu/~dstefan/), and
-  [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/)
-put together the conference trailers for POPL 2022:
-
-{.photo}
-:::
-``` =html
-<iframe src="https://www.youtube.com/embed/707tBQ07I-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
-:::
+I have an older brother Ani, 
+  who is a Ph.D. student at 
+  UCSD CSE. 
+  He’s much smarter than me, 
+  but I keep up by learning 
+  from his example.
 
 
 
