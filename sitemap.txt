@@ -5,6 +5,7 @@ https://vcanumalla.github.io/news.html
 https://vcanumalla.github.io/notes.html
 https://vcanumalla.github.io/pub-2023-plarch-lakeroad.html
 https://vcanumalla.github.io/pub-2024-asplos-lakeroad.html
+https://vcanumalla.github.io/pub-2024-latte-churchroad.html
 https://vcanumalla.github.io/pub-2024-todaes-3la.html
 https://vcanumalla.github.io/publications.html
 https://vcanumalla.github.io/sundial.html
