@@ -34,7 +34,7 @@ sitemap.txt: $(wildcard *.html) $(wildcard pubs/*/*.pdf)
 	@echo "BUILD : $@"
 	@rm -f $@
 	@for page in *.html pubs/*/*.pdf; do \
-		echo "https://ztatlock.net/$${page}"; \
+		echo "https://vcanumalla.github.io/$${page}"; \
 	done >> $@
 
 sitemap.xml: $(wildcard *.html) $(wildcard pubs/*/*.pdf)
