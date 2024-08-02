@@ -43,7 +43,7 @@ sitemap.xml: $(wildcard *.html) $(wildcard pubs/*/*.pdf)
 	@echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' >> $@
 	@for page in *.html pubs/*/*.pdf; do \
 		printf '<url>\n  <loc>%s</loc>\n  <lastmod>%s</lastmod>\n</url>\n' \
-			"https://ztatlock.net/$${page}" \
+			"https://vcanumalla.github.io/$${page}" \
 			"$$(git ls-files --error-unmatch "$${page}" &> /dev/null \
 			 && git log -1 --pretty="format:%cs" "$${page}" \
 			 || date +%Y-%m-%d)"; \
