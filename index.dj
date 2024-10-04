@@ -4,23 +4,18 @@ PhD Student ([photo](img/face.jpg)) \
 Department of Electrical Engineering \
 Stanford University \ 
 [vjc at stanford dot edu](mailto:vjc@stanford.edu)
+\
+_Last updated October 2024_
 
-_Last updated July 2024_
-
-  I am an incoming first year PhD student 
-    in Electrical Engineering at Stanford.
+  I am a first year PhD student
+    in electrical engineering at Stanford.
   Previously, I graduated from the Allen School
     at the University of Washington (UW CSE)
     where I studied computer science.
-
+  
   My research interests are in the intersection
     of programming languages and computer
-    architecture. 
-  I am particularly interested in using
-    formal methods and compiler
-    optimization techniques to improve the
-    performance and efficiency of
-    specialized hardware.
+    architecture.
   Most recently I worked on using
     program synthesis in automating
     hardware compilation of FPGAs.
@@ -30,10 +25,9 @@ _Last updated July 2024_
     advised by [Zachary Tatlock][] and
     [Gus Smith][]. 
   I've additionally interned in industry,
-    at Certora working on mutation testing,
-    and I'm currently at Adobe Research
-    working on projects in the Halide
-    compiler.
+    under [Chandrakana Nandi][] at Certora,
+    and under [Derek Gerstmann][] 
+    at Adobe Research.
 
 
 {.columns .columns-8rem}
@@ -41,13 +35,14 @@ _Last updated July 2024_
 - [Publications](publications.html)
 - [News](news.html)
 - [About](about.html)
+- [CV](cv/2024-autumn-cv.pdf)
 
 
 ## Recent News
 
 : June 2024
 
-  🎓 Graduated from the University of Washington with
+  🎓 Graduated from the University of Washington with \
   a Bachelor's degree in Computer Science!
 
 : March 2024
