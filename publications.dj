@@ -21,25 +21,6 @@
 \
 Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2024
 
-{#2024-todaes-3la}
-*[Application-Level Validation of Accelerator Designs Using a Formal Software/Hardware Interface](
-  pub-2024-todaes-3la.html
-)* \
-  [Bo-Yuan Huang][]\*,
-\ [Steven Lyubomirsky][]\*,
-\ [Yi Li][],
-\ [Mike He][],
-\ [Gus Henry Smith][Gus Smith],
-\ [Thierry Tambe][],
-\ [Akash Gaonkar][],
-\ [Vishal Canumalla][],
-\ [Andrew Cheung][],
-\ [Gu-Yeon Wei][],
-\ [Aarti Gupta][],
-\ [Zachary Tatlock][],
-\ [Sharad Malik][]
-\
-ACM Transactions on Design Automation of Electronic Systems (TODAES), 2024
 :::
 
 
@@ -48,21 +29,6 @@ ACM Transactions on Design Automation of Electronic Systems (TODAES), 2024
 {.pubs}
 :::
 
-{#2024-latte-churchroad}
-*[There and Back Again: A Netlist's Tale with Much Egraphin'](
-  pub-2024-latte-churchroad.html
-)* \
-  [Gus Henry Smith][Gus Smith],
-\ [Zachary D. Sisco][Zachary Sisco],
-\ [Thanawat Techaumnuaiwit][]
-\ [Jingtao Xia][]
-\ [Vishal Canumalla][]
-\ [Andrew Cheung][]
-\ [Zachary Tatlock][]
-\ [Chandrakana Nandi][]
-\ [Jonathan Balkind][]
-\
-Workshop on Languages, Tools, and Techniques for Accelerator Design (LATTE) 2024
 
 {#2023-plarch-lakeroad}
 *[Generate Compilers from Hardware Models!](pub-2023-plarch-lakeroad.html)* \
