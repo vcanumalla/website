@@ -1,52 +1,52 @@
 # [Vishal Canumalla][]
 
+Graduate Student ([photo](img/face.jpg)) \
+Department of Electrical Engineering \
+Stanford University \ 
+[vjc at stanford dot edu](mailto:vjc@stanford.edu)
+\
+_Last updated August 2025_
 
-I am a (incoming) PhD Student in Electrical Engineering
-  at Stanford University.
-Previously, I was an undergraduate
-  at the University of Washington in the
-  [PLSE][] group, where I studied
-  programming languages and compilers.
-
+  I am a second year graduate student
+    in electrical engineering at Stanford.
+  Previously, I graduated from the Allen School
+    at the University of Washington (UW CSE)
+    where I studied computer science.
+  
   My research interests are in the intersection
     of programming languages and computer
-    architecture. 
-  I am particularly interested in using
-    formal methods and compiler
-    optimization techniques to improve the
-    performance and efficiency of
-    specialized hardware.
+    architecture.
   Most recently I worked on using
     program synthesis in automating
     hardware compilation of FPGAs.
-
   At the University of Washington, I was
     very fortunate to be 
     advised by [Zachary Tatlock][] and
     [Gus Smith][]. 
   I've additionally interned in industry,
-    at Certora working on mutation testing,
-    and I'm currently at Adobe Research
-    working on projects in the Halide
-    compiler.
+    under [Chandrakana Nandi][] at Certora,
+    and under [Derek Gerstmann][] 
+    at Adobe Research.
+
 
 {.columns .columns-8rem}
 - [Notes](notes.html)
 - [Publications](publications.html)
 - [News](news.html)
 - [About](about.html)
+- [CV](cv/2025-autumn-cv.pdf)
 
 
 ## Recent News
 
 : June 2024
 
-  🎓 Graduated from the University of Washington with
+  🎓 Graduated from the University of Washington with \
   a Bachelor's degree in Computer Science!
 
 : March 2024
 
-  🌲 Accepted PhD offer from Stanford for Fall 2024! 
+  🌲 Heading to Stanford for graduate schoo
 
 Please see [past news](news.html) for more.
 
@@ -72,9 +72,29 @@ Please see [past news](news.html) for more.
 \
 ASPLOS 2024
 
+{#2024-todaes-3la}
+*[Application-Level Validation of Accelerator Designs Using a Formal Software/Hardware Interface](
+  pub-2024-todaes-3la.html
+)* \
+  [Bo-Yuan Huang][]\*,
+\ [Steven Lyubomirsky][]\*,
+\ [Yi Li][],
+\ [Mike He][],
+\ [Gus Henry Smith][Gus Smith],
+\ [Thierry Tambe][],
+\ [Akash Gaonkar][],
+\ [Vishal Canumalla][],
+\ [Andrew Cheung][],
+\ [Gu-Yeon Wei][],
+\ [Aarti Gupta][],
+\ [Zachary Tatlock][],
+\ [Sharad Malik][]
+\
+TODAES 2024
 :::
 
-A smattering of smaller papers can be found [here](publications.html).
+A full list of these and other smaller papers can be found [here](publications.html).
+
 
 
 

@@ -53,4 +53,5 @@ sitemap.xml: $(wildcard *.html) $(wildcard pubs/*/*.pdf)
 .PHONY: clean
 clean:
 	rm -f $(PAGES)
+	rm -f *.meta
 	rm -f sitemap.txt sitemap.xml

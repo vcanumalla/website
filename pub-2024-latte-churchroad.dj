@@ -1,0 +1,57 @@
+# There and Back Again: A Netlists Tale with Much Egraphin
+
+  [Gus Henry Smith][Gus Smith],
+\ [Zachary D. Sisco][Zachary Sisco],
+\ [Thanawat Techaumnuaiwit][]
+\ [Jingtao Xia][]
+\ [Vishal Canumalla][]
+\ [Andrew Cheung][]
+\ [Zachary Tatlock][]
+\ [Chandrakana Nandi][]
+\ [Jonathan Balkind][]
+
+Workshop on Languages, Tools, and Techniques for Accelerator Design (LATTE) 2024 
+
+
+{.columns .columns-8rem}
+- [paper](pubs/2024-latte-churchroad/2024-latte-churchroad.pdf)
+- [arXiv](https://arxiv.org/abs/2404.00786)
+- [bib](pubs/2024-latte-churchroad/2024-latte-churchroad.bib)
+
+
+## Abstract
+
+EDA toolchains are notoriously unpredictable, incomplete, 
+and error-prone; the generally-accepted remedy has been to 
+re-imagine EDA tasks as compilation problems. However, any 
+compiler framework we apply must be prepared to handle the 
+wide range of EDA tasks, including not only compilation 
+tasks like technology mapping and optimization (the "there" 
+in our title), but also decompilation tasks like loop 
+rerolling (the "back again"). In this paper, we advocate 
+for equality saturation -- a term rewriting framework -- 
+as the framework of choice when building hardware toolchains. 
+Through a series of case studies, we show how the needs of 
+EDA tasks line up conspicuously well with the features 
+equality saturation provides.
+
+## BibTeX
+
+{.bib}
+```
+@misc{smith2024againnetliststaleegraphin,
+      title={There and Back Again: A Netlist's Tale with Much Egraphin'}, 
+      author={Gus Henry Smith and Zachary D. Sisco and 
+      Thanawat Techaumnuaiwit and Jingtao Xia and Vishal 
+      Canumalla and Andrew Cheung and Zachary 
+      Tatlock and Chandrakana Nandi and Jonathan Balkind},
+      year={2024},
+      eprint={2404.00786},
+      archivePrefix={arXiv},
+      primaryClass={cs.AR},
+      url={https://arxiv.org/abs/2404.00786}, 
+}
+```
+
+[📝 publications index](publications.html)
+
